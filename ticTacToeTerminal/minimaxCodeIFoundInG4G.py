@@ -1,4 +1,5 @@
-# Python3 program to find the next optimal move for a player
+# THIS CODE IS IN GEEKS FOR GEEKS I DIDN'T WANT TO WRITE AI LMAO
+# LAST TIME I WROTE AN AI I GOT BRAIN TUMOR OR SMTH
 
 opponent, player= 'o', 'x'
 
